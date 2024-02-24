@@ -1,7 +1,7 @@
 # Feb-26_2024
 # ai-case-study
 
-I have always been concerned about the impact of the climate change.  The global temperature has increased the frequency of storms, hurricanes, and wildfires.   It worries me about the future environment my generation will inherit to the next generation.  This task is not one person, company, or country alone.  This task we will need everyone on this Earth to take it seriously to make it better for the next generation.  We are borrowing the Earth from our future generation to live and giving it back to them.  Giving it back in good condition is important for a good guest and renter. Having said that, I would like to introduce the World Economic Forum.  The World Economic Forum is not a company that creates revenue. It plays a huge part in bringing everyone, companies, and governments together to improve the Earth that we have abused in the past.  One company can't bring everyone together, this organization can.
+I have always been concerned about the impact of the climate change.  The global temperature has increased the frequency of storms, hurricanes, and wildfires.   It worries me about the future environment my generation will inherit to the next generation.  This task is not one person, company, or country alone.  This task we will need everyone on this Earth to take it seriously to make it better for the next generation.  We are borrowing the Earth from our future generation to live and giving it back to them.  Giving it back in good condition is important for a good guest and renter. Having said that, I would like to introduce the World Economic Forum.  The World Economic Forum is not a company that creates revenue. It plays a huge part in bringing everyone, companies, and governments together to improve the Earth that we have abused in the past.  One company can't bring everyone together; this organization can.
 
 ## WEF
 The ***World Economic Forum*** (WEF) is a non-profit organization established in 1971. All its efforts are geared towards public interest, without any commercial benefits. [World Economic Forum](https://intelligence.weforum.org/topics/a1Gb0000000LHVfEAO)
@@ -13,6 +13,7 @@ The forum holds four annual meetings each year. The most well-known meeting is t
 ![WEF Impact](./WEF_Impact.png)
 
 Prof. Klaus Schwab is the executive chairman of the organization.  After completing his education, he developed a passion for creating a platform to facilitate interaction and collaboration between business leaders, governments, and societies to improve the world.
+
 ---
 > When you can't cope with the change, you feel overwhelmed, and you look for a simple solution
 — Prof. Klaus Schwab
