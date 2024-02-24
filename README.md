@@ -3,7 +3,7 @@
 
 Feb 22, 2024
 
-The ***World Economic Forum*** (WEF) is a non-profit organization established in 1971. All its efforts are geared towards public interest, without any commercial benefits. [World Economic Forum]((https://intelligence.weforum.org/topics/a1Gb0000000LHVfEAO)
+The ***World Economic Forum*** (WEF) is a non-profit organization established in 1971. All its efforts are geared towards public interest, without any commercial benefits. [World Economic Forum](https://intelligence.weforum.org/topics/a1Gb0000000LHVfEAO)
 
 This case study will be focused on global climate change.
 
