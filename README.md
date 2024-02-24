@@ -1,13 +1,14 @@
 # Feb-26_2024
 # ai-case-study
 
-Feb 22, 2024
+I have always been concerned about the impact of the climate change.  The global temperature has increased the frequency of storms, hurricanes, and wildfires.   It worries me about the future environment my generation will inherit to the next generation.  This task is not one person, company, or country alone.  This task we will need everyone on this Earth to take it seriously to make it better for the next generation.  We are borrowing the Earth from our future generation to live and giving it back to them.  Giving it back in good condition is important for a good guest and renter. Having said that, I would like to introduce the World Economic Forum.  The World Economic Forum is not a company that creates revenue. It plays a huge part in bringing everyone, companies, and governments together to improve the Earth that we have abused in the past.  One company can't bring everyone together, this organization can.
+
 ##WEF
 The ***World Economic Forum*** (WEF) is a non-profit organization established in 1971. All its efforts are geared towards public interest, without any commercial benefits. [World Economic Forum](https://intelligence.weforum.org/topics/a1Gb0000000LHVfEAO)
 
-This case study will be focused on global climate change.
+The World Economic Forum focuses on different aspects of global problems, but this case study will be focused on global climate change.
 
-The forum holds four annual meetings each year. The most well-known meeting is the Annual Meeting in Davos-Klosters, Switzerland.
+The forum holds four annual meetings each year. The most well-known meeting is the Annual Meeting in Davos-Klosters, Switzerland where all the influential figures come together and discuss the solutions.
 
 ![WEF Impact](./WEF_Impact.png)
 
@@ -15,13 +16,18 @@ Prof. Klaus Schwab is the executive chairman of the organization.  After complet
 
 The World Economic Forum (WEF) is primarily funded by over 1,000 member companies contributing annually. In addition to this, they also receive sponsorships, subsidies, and donations from governments, as well as private and public sectors that support their various projects and initiatives.
 
-The World Economic Forum (WEF) is dedicated to addressing global issues, and in this case study, the focus is on climate change.
-
 One unique aspect of this organization is its platform that brings together various national governments, leading companies, and major organizations. The goal is to discuss and find a path forward to solve global climate issues. This organization's only competition is from those who do not believe in science and refuse to try to create a better world for the next generation.
 This organization is taking the lead in the fight against climate change. However, they do not have their technology. Instead, their membership companies are working towards supporting their mission. Most global companies have made efforts to tackle climate change, but there are also start-up companies that focus on related issues.
 
 AI technology has the potential to predict the weather accurately by analyzing data on weather patterns, icebergs, greenhouse gas emissions, pollution, and other environmental factors. This analysis can help inform policies and regulations aimed at reducing emissions and mitigating the impact of climate change.  The major improvement needed is finding ways to emit less and waste fewer natural resources to make the earth more sustainable. The major trend in this field is a warmer atmosphere, a warmer and more acidic ocean, higher sea levels, and dramatic changes in weather patterns.
-
+The companies that I would like to discuss would be:
+$${\color{lightpink}Circulor}$$
+$${\color{lightpink}Aclima}$$
+$${\color{lightpink}Space Intelligence]$$
+$${\color{lightpink}Greyparrot}$$
+$${\color{lightpink}The Ocean CleanUp}$$
+$${\color{lightpink}Sipremo}$$
+$${\color{Eugenie.ai}$$
 
 Circulor
 --------------------------------------------------------------------------------------------------------------------------------------------------
