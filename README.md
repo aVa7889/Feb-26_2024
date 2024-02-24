@@ -3,7 +3,7 @@
 
 Feb 22, 2024
 
-The _**World Economic Forum**_ (WEF) is a non-profit organization established in 1971. All its efforts are geared towards public interest, without any commercial benefits.
+The ***World Economic Forum*** (WEF) is a non-profit organization established in 1971. All its efforts are geared towards public interest, without any commercial benefits.
 
 This case study will be focused on global climate change.
 
@@ -66,12 +66,12 @@ ${\color{purple}Asset Management Efficiency}$
         * Reuse potential
 
 According to a 2021 analysis by WEF, eight industries, including automotive, construction, and consumer electronics, are responsible for over 50% of global CO2 emissions concentrated in supply chains. 
-
-    125+ facilities actively providing data to the platform
-    52% of global cell manufacturers by production volume providing data for more than 3 years
-    150 million battery cells/modules with a supply chain visibility
-    >500,000 vehicles on the road with traceability by Circulor
-    2.1 billion traceability data collected.
+[!NOTE]
+    - 125+ facilities actively providing data to the platform
+    - 52% of global cell manufacturers by production volume providing data for more than 3 years
+    - 150 million battery cells/modules with a supply chain visibility
+    - >500,000 vehicles on the road with traceability by Circulor
+    - 2.1 billion traceability data collected.
 
 Circulor is a UK green supply chain startup that has several goals:
 Net-zero CO2e goal: Circulor's goal is to achieve a net-zero CO2e goal by 2050.
@@ -86,11 +86,14 @@ The Greyparrot was founded in Feb 2019; the prototype analyzer was deployed in a
 
 The other example is **Aclima**, based in San Francisco, CA, an AI software solution designed to visualize crucial air quality data that could help protect public health.
 The Aclima company employs sensor networks, cloud computing, and AI to provide hyperlocal air quality data in real-time, much like Google's street view cars. It deploys sensor networks, cloud computing, and AI to provide hyperlocal air quality data in real-time using technology similar to that used by Google Street View cars.
+
 The Aclima has accomplished the following:
+```ruby
         Oakland, CA - complete
         Houston, TX - Data analysis complete; project in     
                     progress
         London, UK - Data collected; project in progress
+```
 Aclima has been deployed across the USA and worldwide, including New York, Washington DC, San Francisco Bay Area, Dublin, Ireland, and Hamburg, Germany.
 The mission is for local environmental justice groups to use our findings to advocate for safeguards to clear the air and foster healthier communities.
  
