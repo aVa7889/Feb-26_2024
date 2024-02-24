@@ -41,7 +41,7 @@ This organization is taking the lead in the fight against climate change. Howeve
 
 AI technology has the potential to predict the weather accurately by analyzing data on weather patterns, icebergs, greenhouse gas emissions, pollution, and other environmental factors. This analysis can help inform policies and regulations aimed at reducing emissions and mitigating the impact of climate change.  The major improvement needed is finding ways to emit less and waste fewer natural resources to make the earth more sustainable. The major trend in this field is a warmer atmosphere, a warmer and more acidic ocean, higher sea levels, and dramatic changes in weather patterns.
 
-One example is Circulor, a platform that tracks raw materials from their source to final products, helping manufacturers and suppliers make their processes more sustainable.
+One example is **_Circulor**_, a platform that tracks raw materials from their source to final products, helping manufacturers and suppliers make their processes more sustainable.
 The Circulor platform utilizes PROVE to digitally present the physical journey of materials from their origin to the final product. PROVE comprises six modules: Supply Chain Mapping, Material Traceability, Emissions Tracking, Compliance, Sustainability, and Digital Product Passports. 
 Circulor's solutions are built on a private enterprise SaaS platform. This technology has been designed to enable seamless data integration from existing enterprise platforms to the blockchain, using RESTful web service APIs with advanced security and authentication protocols. The company's performance was measured as follows: Reliability, Responsiveness, Agility, Cost, and Asset Management efficiency.
 
