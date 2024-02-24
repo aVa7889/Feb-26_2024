@@ -13,6 +13,9 @@ The forum holds four annual meetings each year. The most well-known meeting is t
 ![WEF Impact](./WEF_Impact.png)
 
 Prof. Klaus Schwab is the executive chairman of the organization.  After completing his education, he developed a passion for creating a platform to facilitate interaction and collaboration between business leaders, governments, and societies to improve the world.
+---
+> When you can't cope with the change, you feel overwhelmed, and you look for a simple solution
+— Prof. Klaus Schwab
 
 The World Economic Forum (WEF) is primarily funded by over 1,000 member companies contributing annually. In addition to this, they also receive sponsorships, subsidies, and donations from governments, as well as private and public sectors that support their various projects and initiatives.
 
