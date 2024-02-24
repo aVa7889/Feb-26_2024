@@ -32,7 +32,7 @@ If interested check out the full [PDF presentation here](./presentation/US_News_
 
 Prof. Klaus Schwab is the executive chairman of the organization.  After completing his education, he developed a passion for creating a platform to facilitate interaction and collaboration between business leaders, governments, and societies to improve the world.
 
-The World Economic Forum (WEF) is primarily funded by a group of over 1,000 member companies who contribute to the organization throughout the year. In addition to this, they also receive sponsorships, subsidies, and donations from governments, as well as private and public sectors that support their various projects and initiatives.
+The World Economic Forum (WEF) is primarily funded by over 1,000 member companies contributing annually. In addition to this, they also receive sponsorships, subsidies, and donations from governments, as well as private and public sectors that support their various projects and initiatives.
 
 The World Economic Forum (WEF) is dedicated to addressing global issues, and in this case study, the focus is on climate change.
 
@@ -41,7 +41,7 @@ This organization is taking the lead in the fight against climate change. Howeve
 
 AI technology has the potential to predict the weather accurately by analyzing data on weather patterns, icebergs, greenhouse gas emissions, pollution, and other environmental factors. This analysis can help inform policies and regulations aimed at reducing emissions and mitigating the impact of climate change.  The major improvement needed is finding ways to emit less and waste fewer natural resources to make the earth more sustainable. The major trend in this field is a warmer atmosphere, a warmer and more acidic ocean, higher sea levels, and dramatic changes in weather patterns.
 
-One example is <span style="color:hot pink;">**_Circulor_**, a platform that tracks raw materials from their source to final products, helping manufacturers and suppliers make their processes more sustainable.
+One example is <span style="color:red;">**_Circulor_**</span>, a platform that tracks raw materials from their source to final products, helping manufacturers and suppliers make their processes more sustainable.
 The Circulor platform utilizes PROVE to digitally present the physical journey of materials from their origin to the final product. PROVE comprises six modules: Supply Chain Mapping, Material Traceability, Emissions Tracking, Compliance, Sustainability, and Digital Product Passports. 
 Circulor's solutions are built on a private enterprise SaaS platform. This technology has been designed to enable seamless data integration from existing enterprise platforms to the blockchain, using RESTful web service APIs with advanced security and authentication protocols. The company's performance was measured as follows: Reliability, Responsiveness, Agility, Cost, and Asset Management efficiency.
 
