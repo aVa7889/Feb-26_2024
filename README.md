@@ -66,7 +66,7 @@ ${\color{purple}Asset Management Efficiency}$
         * Reuse potential
 
 According to a 2021 analysis by WEF, eight industries, including automotive, construction, and consumer electronics, are responsible for over 50% of global CO2 emissions concentrated in supply chains. 
-$${\color{red}Circulor}$$ 
+
     125+ facilities actively providing data to the platform
     52% of global cell manufacturers by production volume providing data for more than 3 years
     150 million battery cells/modules with a supply chain visibility
