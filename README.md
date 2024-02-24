@@ -45,7 +45,8 @@ One example is **Circulor** a platform that tracks raw materials from their sour
 The Circulor platform utilizes PROVE to digitally present the physical journey of materials from their origin to the final product. PROVE comprises six modules: Supply Chain Mapping, Material Traceability, Emissions Tracking, Compliance, Sustainability, and Digital Product Passports. 
 Circulor's solutions are built on a private enterprise SaaS platform. This technology has been designed to enable seamless data integration from existing enterprise platforms to the blockchain, using RESTful web service APIs with advanced security and authentication protocols. The company's performance was measured as follows: Reliability, Responsiveness, Agility, Cost, and Asset Management efficiency.
 
-   $${\color{red} * Key performance indicators}$$
+   
+   $${\color{red}*}$$ Key performance indicators
     * Lifecycle analysis
     * Material flow analysis
     * Quality Protocols
