@@ -43,10 +43,9 @@ AI technology has the potential to predict the weather accurately by analyzing d
 
 One example is **Circulor** a platform that tracks raw materials from their source to final products, helping manufacturers and suppliers make their processes more sustainable.
 The Circulor platform utilizes PROVE to digitally present the physical journey of materials from their origin to the final product. PROVE comprises six modules: Supply Chain Mapping, Material Traceability, Emissions Tracking, Compliance, Sustainability, and Digital Product Passports. 
-Circulor's solutions are built on a private enterprise SaaS platform. This technology has been designed to enable seamless data integration from existing enterprise platforms to the blockchain, using RESTful web service APIs with advanced security and authentication protocols. The company's performance was measured as follows: Reliability, Responsiveness, Agility, Cost, and Asset Management efficiency.
+Circulor's solutions are built on a private enterprise SaaS platform. This technology has been designed to enable seamless data integration from existing enterprise platforms to the blockchain, using RESTful web service APIs with advanced security and authentication protocols. The company's performance was measured as follows: R$${\color{red}reliability, Responsiveness, Agility, Cost, and Asset Management efficiency}$$.
 
-   
-   $${\color{red}*}$$ Key performance indicators
+    * Key performance indicators
     * Lifecycle analysis
     * Material flow analysis
     * Quality Protocols
@@ -62,8 +61,7 @@ Circulor's solutions are built on a private enterprise SaaS platform. This techn
         * Reuse potential
 
 According to a 2021 analysis by WEF, eight industries, including automotive, construction, and consumer electronics, are responsible for over 50% of global CO2 emissions concentrated in supply chains. 
-Circulor 
-
+$${\color{red}Circulor}$$ 
     125+ facilities actively providing data to the platform
     52% of global cell manufacturers by production volume providing data for more than 3 years
     150 million battery cells/modules with a supply chain visibility
@@ -91,7 +89,7 @@ The Aclima has accomplished the following:
 Aclima has been deployed across the USA and worldwide, including New York, Washington DC, San Francisco Bay Area, Dublin, Ireland, and Hamburg, Germany.
 The mission is for local environmental justice groups to use our findings to advocate for safeguards to clear the air and foster healthier communities.
  
-There are more examples, **Space Intelligence**.  This company's objective is to provide data and mapping information to help in forest conservation and restoration and analyze the rate of iceberg melting by providing data and mapping information. Space intelligence identifies regions of interest and the specific timeframe for assessing landscape change. Geospatial analysts gather and analyze multiple satellite data sources from the required periods using ecology and machine learning methodologies. The outcome of this process is presented in a customized report that includes maps, data, and analysis to meet the specific request. This report is bespoke and contains mapping, data, and analysis tailored to the specific request. Data analytics, machine learning, and algorithms are used to measure forest biomass and icebergs to automate satellite data analysis.
+There are more examples, **Space Intelligence**.  This company's objective is to provide data and mapping information to help in forest conservation and restoration and analyze the rate of iceberg melting by providing data and mapping information. Space intelligence identifies regions of interest and the specific timeframe for assessing landscape change. Geospatial analysts use ecology and machine learning methodologies to gather and analyze multiple satellite data sources from the required periods. The outcome of this process is presented in a customized report that includes maps, data, and analysis to meet the specific request. This report is bespoke and contains mapping, data, and analysis tailored to the specific request. Data analytics, machine learning, and algorithms are used to measure forest biomass and icebergs to automate satellite data analysis.
 Space Intelligence has a team of 50 staff members from 11 different countries. They specialize in producing scientific papers related to satellite data, machine learning/artificial intelligence, and forest ecology. Their work has resulted in mapping over a billion acres across 4 continents, 12 countries, and 3 national maps. They have produced mapping data for areas ranging from Indonesia to Brazil and Canada to Cambodia. “They produced mapping data for the entire countries of Scotland, Kenya, and Tanzania.”
 Additionally, they have published more than 100 scientific papers related to their work. The aim for 2024 is to expand nature markets, improve standards, and jurisdictional REDD. The goal is to enhance the quality and depth of natural data insights, providing transparency into the impact.
 
