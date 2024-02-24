@@ -48,7 +48,7 @@ ${\color{red}Reliability}$
 ${\color{green}Responsiveness}$
 ${\color{blue}Agility}$
 ${\color{lightgreen}Cost}$
-${\color{lightyellow}Asset Management Efficiency}$
+${\color{purple}Asset Management Efficiency}$
   
     * Key performance indicators
     * Lifecycle analysis
