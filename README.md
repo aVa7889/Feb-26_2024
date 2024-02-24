@@ -95,7 +95,7 @@ Additionally, they have published more than 100 scientific papers related to the
 In the Netherlands, **The Ocean Cleanup**, an environmental organization, uses AI to map ocean litter and clean up plastic pollution.  They train an AI algorithm to identify and track using vast input images.  The Ocean Cleanup has removed over 7 million kilograms of waste and aims to eliminate 90% of floating ocean plastic by 2040. [The Ocean Clean](https://theoceancleanup.com/)
 ![The Ocean CleanUp](./OceanCleanUp.png)
 **Sipremo** uses AI to predict climate disaster type, location, and time.  They utilize machine learning, sensors, and crowdsourcing to improve their weather event prediction models.  The company has demonstrated that its system can map icebergs 10,000 times faster than humans. [Sipremo](https://www.sipremo.com/)
-
+![Sipremo](./sipremo.png)
 **Eugenie.ai** has developed a platform for tracking emissions data from machines and processes. They utilize SaaS-based emissions intelligence through satellites, drones, and IoT devices to enable tracking and tracing of emissions.  In March 2020, Eugenie was recognized among the 10 most recommended analytics Startups by the publication CIO Insider. [Eugenie.ai](https://eugenie.ai/)
 ![Eugenie.ai](./Eugenie.png)
 
