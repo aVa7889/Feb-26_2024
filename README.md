@@ -16,6 +16,7 @@ Prof. Klaus Schwab is the executive chairman of the organization.  After complet
 
 ---
 > When you can't cope with the change, you feel overwhelmed, and you look for a simple solution
+> 
 — Prof. Klaus Schwab
 
 The World Economic Forum (WEF) is primarily funded by over 1,000 member companies contributing annually. In addition to this, they also receive sponsorships, subsidies, and donations from governments, as well as private and public sectors that support their various projects and initiatives.
