@@ -49,9 +49,8 @@ Circulor's solutions are built on a private enterprise SaaS platform. This techn
 + Responsiveness
 ! Agility
 # Cost
-@@ Asset Management efficiency}@@
+- Asset Management Efficiency
 ```
-In detail,
     * Key performance indicators
     * Lifecycle analysis
     * Material flow analysis
