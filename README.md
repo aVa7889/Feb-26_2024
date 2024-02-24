@@ -26,13 +26,13 @@ This organization is taking the lead in the fight against climate change. Howeve
 
 AI technology has the potential to predict the weather accurately by analyzing data on weather patterns, icebergs, greenhouse gas emissions, pollution, and other environmental factors. This analysis can help inform policies and regulations aimed at reducing emissions and mitigating the impact of climate change.  The major improvement needed is finding ways to emit less and waste fewer natural resources to make the earth more sustainable. The major trend in this field is a warmer atmosphere, a warmer and more acidic ocean, higher sea levels, and dramatic changes in weather patterns.
 The companies that I would like to discuss would be:
-$${\color{navy}Circulor}$$
-$${\color{navy}Aclima}$$
-$${\color{navy}Space Intelligence}$$
-$${\color{navy}Greyparrot}$$
-$${\color{navy}The Ocean CleanUp}$$
-$${\color{navy}Sipremo}$$
-$${\color{navy}Eugenie.ai}$$
+### $${\color{navy}Circulor}$$
+### $${\color{navy}Aclima}$$
+### $${\color{navy}Space Intelligence}$$
+### $${\color{navy}Greyparrot}$$
+### $${\color{navy}The Ocean CleanUp}$$
+### $${\color{navy}Sipremo}$$
+### $${\color{navy}Eugenie.ai}$$
 
 Circulor
 --------------------------------------------------------------------------------------------------------------------------------------------------
