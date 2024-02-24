@@ -3,7 +3,7 @@
 
 I have always been concerned about the impact of the climate change.  The global temperature has increased the frequency of storms, hurricanes, and wildfires.   It worries me about the future environment my generation will inherit to the next generation.  This task is not one person, company, or country alone.  This task we will need everyone on this Earth to take it seriously to make it better for the next generation.  We are borrowing the Earth from our future generation to live and giving it back to them.  Giving it back in good condition is important for a good guest and renter. Having said that, I would like to introduce the World Economic Forum.  The World Economic Forum is not a company that creates revenue. It plays a huge part in bringing everyone, companies, and governments together to improve the Earth that we have abused in the past.  One company can't bring everyone together, this organization can.
 
-##WEF
+## WEF
 The ***World Economic Forum*** (WEF) is a non-profit organization established in 1971. All its efforts are geared towards public interest, without any commercial benefits. [World Economic Forum](https://intelligence.weforum.org/topics/a1Gb0000000LHVfEAO)
 
 The World Economic Forum focuses on different aspects of global problems, but this case study will be focused on global climate change.
@@ -21,13 +21,13 @@ This organization is taking the lead in the fight against climate change. Howeve
 
 AI technology has the potential to predict the weather accurately by analyzing data on weather patterns, icebergs, greenhouse gas emissions, pollution, and other environmental factors. This analysis can help inform policies and regulations aimed at reducing emissions and mitigating the impact of climate change.  The major improvement needed is finding ways to emit less and waste fewer natural resources to make the earth more sustainable. The major trend in this field is a warmer atmosphere, a warmer and more acidic ocean, higher sea levels, and dramatic changes in weather patterns.
 The companies that I would like to discuss would be:
-$${\color{lightpink}Circulor}$$
-$${\color{lightpink}Aclima}$$
-$${\color{lightpink}Space Intelligence]$$
-$${\color{lightpink}Greyparrot}$$
-$${\color{lightpink}The Ocean CleanUp}$$
-$${\color{lightpink}Sipremo}$$
-$${\color{Eugenie.ai}$$
+$${\color{navy}Circulor}$$
+$${\color{navy}Aclima}$$
+$${\color{navy}Space Intelligence}$$
+$${\color{navy}Greyparrot}$$
+$${\color{navy}The Ocean CleanUp}$$
+$${\color{navy}Sipremo}$$
+$${\color{navy]Eugenie.ai}$$
 
 Circulor
 --------------------------------------------------------------------------------------------------------------------------------------------------
