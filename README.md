@@ -27,7 +27,7 @@ $${\color{navy}Space Intelligence}$$
 $${\color{navy}Greyparrot}$$
 $${\color{navy}The Ocean CleanUp}$$
 $${\color{navy}Sipremo}$$
-$${\color{navy]Eugenie.ai}$$
+$${\color{navy}Eugenie.ai}$$
 
 Circulor
 --------------------------------------------------------------------------------------------------------------------------------------------------
