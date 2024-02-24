@@ -10,7 +10,7 @@ This case study will be focused on global climate change.
 The forum holds four annual meetings each year. The most well-known meeting is the Annual Meeting in Davos-Klosters, Switzerland.
 
 
-![WEF Impact](./Feb-26_2024/WEF_Impact.png)
+![WEF Impact](./WEF_Impact.png)
 
 
 
