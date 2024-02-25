@@ -1,7 +1,7 @@
 # Feb-26_2024
 # ai-case-study
 
-I have always been concerned about the impact of the climate change.  The global temperature has increased the frequency of storms, hurricanes, and wildfires.   It worries me about the future environment my generation will inherit to the next generation.  This task is not one person, company, or country alone.  This task we will need everyone on this Earth to take it seriously to make it better for the next generation.  We are borrowing the Earth from our future generation to live and giving it back to them.  Giving it back in good condition is important for a good guest and renter. Having said that, I would like to introduce the World Economic Forum.  The World Economic Forum is not a company that creates revenue. It plays a huge part in bringing everyone, companies, and governments together to improve the Earth that we have abused in the past.  One company can't bring everyone together; this organization can.
+I have always been concerned about the impact of the climate change.  The global temperature has increased the frequency of storms, hurricanes, and wildfires.   It worries me about the future environment my generation will inherit to the next generation.  This task is not one person, a company, or a country alone.  This task we will need everyone on this Earth to take it seriously to make it better for the next generation.  We are borrowing the Earth from our future generation to live and giving it back to them.  Giving it back in good condition is important for a good guest and renter. Having said that, I would like to introduce the World Economic Forum.  The World Economic Forum is not a company that creates revenue. It plays a huge part in bringing everyone, companies, and governments together to improve the Earth that we have abused in the past and now.  One company can't bring everyone together; this organization can.
 
 ## WEF
 The ***World Economic Forum*** (WEF) is a non-profit, impartial organization established in 1971 and not tied to any special interest. All its efforts are geared towards public interest, without any commercial benefits. [World Economic Forum](https://intelligence.weforum.org/topics/a1Gb0000000LHVfEAO)
@@ -21,13 +21,14 @@ Prof. Klaus Schwab is the executive chairman of the organization.  After complet
 
 The World Economic Forum (WEF) is primarily funded by over 1,000 member companies contributing annually. In addition to this, they also receive sponsorships, subsidies, and donations from governments, as well as private and public sectors that support their various projects and initiatives.
 
-One unique aspect of this organization is its platform that brings together various national governments, leading companies, and major organizations. The goal is to discuss and find a path forward to solve global climate issues. This organization's only competition is from those who do not believe in science and refuse to try to create a better world for the next generation.
-This organization is taking the lead in the fight against climate change. However, they do not have their technology. Instead, their membership companies are working towards supporting their mission. Most global companies have made efforts to tackle climate change, but there are also start-up companies that focus on related issues.
+One unique aspect of this organization is its platform that brings together various national governments, leading companies, and major organizations. The goal is to discuss and find a path forward to solve global climate issues.  This organization is taking the lead in the fight against climate change. However, they do not have their technology. Instead, their membership companies are working towards supporting their mission. Most global companies have made efforts to tackle climate change, but there are also start-up companies that focus on related issues.  
 
-There is no exact competition or alternative options for the World Economic Forum.  But there are Mubadala, Catholic Charities Archdiocese of New Orleans, and Public Health Management Corporation.  They are not all non-profit organizations or have the scale of the world stage.  But their work focuses on the public's well-being.
+There is no exact competition or alternative options for the World Economic Forum.  But there are Mubadala, Catholic Charities Archdiocese of New Orleans, and Public Health Management Corporation, which could be alternatives. However, they are not all non-profit organizations or have the scale of the world stage.  But their work focuses on the public's well-being.  
 
-AI technology has the potential to predict the weather accurately by analyzing data on weather patterns, icebergs, greenhouse gas emissions, pollution, and other environmental factors. This analysis can help inform policies and regulations aimed at reducing emissions and mitigating the impact of climate change.  The major improvement needed is finding ways to emit less and waste fewer natural resources to make the earth more sustainable. The major trend in this field is a warmer atmosphere, a warmer and more acidic ocean, higher sea levels, and dramatic changes in weather patterns.
-The companies that I would like to discuss would be:
+The major trend in this field is a warmer atmosphere, a warmer and more acidic ocean, higher sea levels, and dramatic changes in weather patterns.  AI technology has the potential to predict the weather accurately by analyzing data on weather patterns, icebergs, greenhouse gas emissions, pollution, and other environmental factors. This analysis can help inform policies and regulations aimed at reducing emissions and mitigating the impact of climate change.  The major improvement needed is finding ways to emit less and waste fewer natural resources to make the earth more sustainable. 
+
+For this case study, I will focus on the start-up companies and they are as follows:
+
 ### $${\color{navy}Circulor}$$
 ### $${\color{navy}Aclima}$$
 ### $${\color{navy}Space Intelligence}$$
@@ -40,7 +41,8 @@ Circulor
 --------------------------------------------------------------------------------------------------------------------------------------------------
 One example is **Circulor** a platform that tracks raw materials from their source to final products, helping manufacturers and suppliers make their processes more sustainable. [Circulor](https://www.circulor.com/gated-content/how-circulor's-scale-and-market-leading-solutions-bring-a-network-effect-to-our-customers-)
 The Circulor platform utilizes PROVE to digitally present the physical journey of materials from their origin to the final product. PROVE comprises six modules: Supply Chain Mapping, Material Traceability, Emissions Tracking, Compliance, Sustainability, and Digital Product Passports. 
-Circulor's solutions are built on a private enterprise SaaS platform. This technology has been designed to enable seamless data integration from existing enterprise platforms to the blockchain, using RESTful web service APIs with advanced security and authentication protocols. The company's performance was measured as follows: 
+Circulor's solutions are built on a private enterprise SaaS platform. This technology has been designed to enable seamless data integration from existing enterprise platforms to the blockchain, using RESTful web service APIs with advanced security and authentication protocols. The below information is how the company's performance was measured:
+
 ${\color{red}Reliability}$
 ${\color{green}Responsiveness}$
 ${\color{blue}Agility}$
@@ -70,9 +72,9 @@ According to a 2021 analysis by WEF, eight industries, including automotive, con
     - >500,000 vehicles on the road with traceability by Circulor
     - 2.1 billion traceability data collected.
 ![Circulor](./Circulor.png)
-Circulor is a UK green supply chain startup that has several goals:
+Below are the Circulor's goals:
 Net-zero CO2e goal: Circulor's goal is to achieve a net-zero CO2e goal by 2050.
-EV sales target: Circulor aims to have a 50% EV sales target by 2030.
+EV sales target: Circulor aims to have a 50% EV sales target in the UK by 2030.
 Materials traceability: Circulor's goals include enabling traceability and compliance processes for companies that need to meet global regulations.
 Data integrity: Circulor's goals include guaranteeing data integrity from mining raw critical minerals to the end of battery life.
 Supply chain solution: Circulor helps OEMs achieve global climate-neutral manufacturing and operations goals. 
@@ -112,19 +114,30 @@ The Ocean CleanUp
 In the Netherlands, **TheOcean Cleanup**, an environmental organization, uses AI to map ocean litter and clean up plastic pollution.  They train an AI algorithm to identify and track using vast input images.  The Ocean Cleanup has removed over 7 million kilograms of waste and aims to eliminate 90% of floating ocean plastic by 2040. [The Ocean Clean](https://theoceancleanup.com/)
 ![The Ocean CleanUp](./OceanCleanUp.png)
 
+> [!Note]
+> There is no significant information that could be found.  I was able to find limited information on this company.
+  
 Sipremo
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 **Sipremo** uses AI to predict climate disaster type, location, and time.  They utilize machine learning, sensors, and crowdsourcing to improve their weather event prediction models.  The company has demonstrated that its system can map icebergs 10,000 times faster than humans. [Sipremo](https://www.sipremo.com/)
 ![Sipremo](./sipremo.png)
+
+> [!Note]
+> There is no significant information that could be found.  I was able to find limited information on this company.
 
 Eugenie.ai
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 **Eugenie.ai** has developed a platform for tracking emissions data from machines and processes. They utilize SaaS-based emissions intelligence through satellites, drones, and IoT devices to enable tracking and tracing of emissions.  In March 2020, Eugenie was recognized among the 10 most recommended analytics Startups by the publication CIO Insider. [Eugenie.ai](https://eugenie.ai/)
 ![Eugenie.ai](./Eugenie.png)
 
+> [!Note]
+> There is no significant information that could be found.  I was able to find limited information on this company.
+
 Future
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-As I learned more about AI and machine learning, I realized how important the data that we have is.  If we have good-quality data for what we want to develop, we can build better modeling, make better decisions, and resolve issues accurately.  That includes what we talked about all of the above company methods, whether they use visual images, air quality data, forest density data, etc.
+As I learned more about AI and machine learning, I realized how important the data that we have is.  Having good quality, quantity, and diverse data for what we want to develop is crucial, which will help us train AI learning better. Eventually, we can build better modeling, make better decisions, and resolve issues accurately.  That includes what we talked about all of the above company methods, whether they use visual images, air quality data, forest density data, etc.  
+Since AI technology is still new, there is so much to do.  Data preprocessing to recognize what data is missing and what data is bad data.  This data processing will increase the diversity of the training data.  Better Modeling architecture involves using pre-trained models to build future architecture.  Hyperparameter tuning optimizes the model to find the best configuration.  Regularization techniques prevent overfitting and generalize better to unseen data.  Model evaluation cross-validates the model's performance of unseen data.  
+It's important to refine and improve all models through iteration and feedback. Building AI models requires ethical practices that everyone is concerned about, such as ensuring fairness, transparency, and accountability in the work. It's crucial to predict and prevent any negative impact on individuals or communities. This responsibility requires taking steps to avoid any harm caused by the work.  
 
  
 
